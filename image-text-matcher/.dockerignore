@@ -1,0 +1,13 @@
+.env
+.git
+.gitignore
+.pytest_cache
+.venv
+__pycache__
+*.py[cod]
+image_text_matcher.db
+data/images/*
+!data/images/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+tests

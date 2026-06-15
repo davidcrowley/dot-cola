@@ -1,0 +1,17 @@
+.DS_Store
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor/project metadata
+.idea/
+
+prompts
+AGENTS.md
+CODEX_MEMORY.md
